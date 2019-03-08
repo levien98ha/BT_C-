@@ -1,0 +1,11 @@
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\bin\Debug\QLDT.exe.config
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\bin\Debug\QLDT.exe
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\bin\Debug\QLDT.pdb
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.csprojAssemblyReference.cache
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.Form1.resources
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.Properties.Resources.resources
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.csproj.GenerateResource.cache
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.csproj.CoreCompileInputs.cache
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.exe
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.pdb
+C:\Users\PEPPERMINT\source\repos\102160274_NguyenLeVien_16TCLC3\QLDT\QLDT\obj\Debug\QLDT.Addform.resources
